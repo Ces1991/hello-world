@@ -1,3 +1,4 @@
 # hello-world
-repository test for academic purposes/n
+repository test for academic purposes
+
 Hello, I'm learning GitHub :)
